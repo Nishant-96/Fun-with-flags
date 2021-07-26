@@ -22,7 +22,6 @@ const flagDictionary = {
   "🇰🇷": "South Korea",
   "🇰🇼": "Kuwait"
 };
-// 🇳🇷
 
 var flagsWeKnow = Object.keys(flagDictionary);
 
